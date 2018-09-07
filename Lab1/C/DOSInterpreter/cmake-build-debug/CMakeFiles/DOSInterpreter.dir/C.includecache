@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stephanrotolante/Documents/Operating-Systems/Lab1/C/DOSInterpreter/main.c
+stdio.h
+-
+memory.h
+-
+stdlib.h
+-
+string.h
+-
+

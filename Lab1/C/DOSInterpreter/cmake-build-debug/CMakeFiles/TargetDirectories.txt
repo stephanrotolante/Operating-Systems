@@ -1,0 +1,3 @@
+/Users/stephanrotolante/Documents/Operating-Systems/Lab1/C/DOSInterpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stephanrotolante/Documents/Operating-Systems/Lab1/C/DOSInterpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stephanrotolante/Documents/Operating-Systems/Lab1/C/DOSInterpreter/cmake-build-debug/CMakeFiles/DOSInterpreter.dir
